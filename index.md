@@ -9,6 +9,10 @@ hero_image: assets/ext_images/Pages_layout_5.png
 
 This website showcases the options for the Bulma Clean theme. The theme is available as a ruby gem or can be used with GitHub pages. 
 
+![alt text](assets/ext_images/Pages_layout_5.png)
+
+
+
 ## Ruby Gem
 
 The ruby gem is available on the Ruby Gems website at the following location. [https://rubygems.org/gems/bulma-clean-theme](https://rubygems.org/gems/bulma-clean-theme)
