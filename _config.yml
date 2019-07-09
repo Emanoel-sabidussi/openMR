@@ -5,7 +5,7 @@ theme: bulma-clean-theme
 email: your-email@domain.com
 description: >
   The demo site for Bulma Clean Theme, made for Jekyll and GitHub pages websites
-baseurl: "/bulma-clean-theme"
+baseurl: "/openMR"
 url: ""
 permalink: pretty
 
