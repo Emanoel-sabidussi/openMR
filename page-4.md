@@ -4,7 +4,6 @@ subtitle: Demo page with tabs
 layout: page
 show_sidebar: false
 tabs: example_tabs
-menubar: example_menu
 ---
 
 ## Displaying tabs
