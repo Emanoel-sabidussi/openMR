@@ -3,7 +3,6 @@ title: Page without footer
 subtitle: Demo page without footer
 layout: page
 show_sidebar: false
-tabs: example_tabs
 ---
 
 ## Hiding the footer
