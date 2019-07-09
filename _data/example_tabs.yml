@@ -3,14 +3,14 @@ style: is-boxed
 size: is-large
 items:
   - name: The OpenMR Seminar
-    link: /page-4/
+    link: /page-1/
     icon: fa-smile-wink
   - name: Location and Venue
-    link: /page-1/
+    link: /page-2/
     icon: fa-angle-double-right
   - name: Register here
-    link: /page-2/
+    link: /page-3/
     icon: fa-ellipsis-v
   - name: Contact us
-    link: /page-3/
+    link: /page-4/
     icon: fa-bars
