@@ -5,7 +5,7 @@ layout: page
 hero_image: assets/ext_images/Pages_layout_5.png
 ---
 
-# Bulma Clean Theme demo website
+# What is OpenMR Benelux?
 
 This website showcases the options for the Bulma Clean theme. The theme is available as a ruby gem or can be used with GitHub pages. 
 

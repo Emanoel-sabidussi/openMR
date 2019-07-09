@@ -2,7 +2,7 @@ alignment: is-left
 style: is-boxed
 size: is-large
 items:
-  - name: Tabs
+  - name: The OpenMR Seminar
     link: /page-4/
     icon: fa-smile-wink
   - name: Sidebar
