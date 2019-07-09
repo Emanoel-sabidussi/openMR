@@ -2,6 +2,7 @@
 title: Bulma Clean Theme
 subtitle: This is the demo site for Bulma Clean Theme
 layout: page
+hero_image: /assets/ext_images/Pages_layout_5.png
 ---
 
 # Bulma Clean Theme demo website
