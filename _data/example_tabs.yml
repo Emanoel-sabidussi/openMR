@@ -5,12 +5,12 @@ items:
   - name: The OpenMR Seminar
     link: /page-4/
     icon: fa-smile-wink
-  - name: Sidebar
+  - name: Location and Venue
     link: /page-1/
     icon: fa-angle-double-right
-  - name: No Sidebar
+  - name: Register here
     link: /page-2/
     icon: fa-ellipsis-v
-  - name: Menubar
+  - name: Contact us
     link: /page-3/
     icon: fa-bars
