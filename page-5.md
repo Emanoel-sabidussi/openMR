@@ -1,19 +1,12 @@
 ---
-title: Page without footer
-subtitle: Demo page without footer
+title: Registration
+subtitle: Don't skip our event!
 layout: page
 show_sidebar: false
+tabs: example_tabs
+hero_image: assets/ext_images/Home_logo.png
 ---
 
-## Hiding the footer
+## Information on registration, requirements and others.
 
-If you would like a page without the footer displayed then set hide_footer to true in the page's frontmatter
-
-```yml
-title: Page without footer
-subtitle: Demo page without footer
-layout: page
-show_sidebar: false
-menubar: example_menu
-hide_footer: true
-```
+## Link to google form (or other)

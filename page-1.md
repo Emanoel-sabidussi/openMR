@@ -1,6 +1,6 @@
 ---
-title: Page With Sidebar
-subtitle: A demo page with a sidebar
+title: The OpenMR Seminar
+subtitle: Meeting open-minded people thinking about a better science
 layout: page
 show_sidebar: false
 tabs: example_tabs

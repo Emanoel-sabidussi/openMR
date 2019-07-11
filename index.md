@@ -13,7 +13,7 @@ These questions were the raisons d’être of OpenMR Benelux: we wanted to creat
 
 Finally, while it is organised as a pre-event to the ISMRM-Benelux annual meeting, and thus drew attendees from the same wide pool of MRI-researchers (i.e. from universities/companies in Belgium, the Netherlands, and Luxembourg), our goal is to be as inclusive as possible. Anyone is welcome to attend, learn and participate, irrespective of their geographical location (or any other discerning factor for that matter).
 
-Interested? Meet them [Team]()
+Interested? Meet the [Team](products/)
 
 ![alt text](assets/ext_images/post_separator.png)
 
