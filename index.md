@@ -1,4 +1,6 @@
 ---
+title:
+subtitle:
 layout: page
 hero_image: assets/ext_images/Home_logo.png
 ---
