@@ -4,7 +4,7 @@ subtitle: Meeting open-minded people thinking about a better science
 layout: page
 show_sidebar: false
 tabs: example_tabs
-hero_image: assets/ext_images/Home_logo.png
+#hero_image: assets/ext_images/Home_logo.png
 ---
 
 ## What is the OpenMR Benelux Seminar?

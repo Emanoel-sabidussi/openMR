@@ -1,6 +1,6 @@
 ---
-title: Registration
-subtitle: Don't skip our event!
+title: Contact
+subtitle: We would love to hear from you!
 layout: page
 show_sidebar: false
 tabs: example_tabs
