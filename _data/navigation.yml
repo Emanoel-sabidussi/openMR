@@ -5,11 +5,13 @@
       link: /page-1/
     - name: Location and Venue
       link: /page-2/
-    - name: Register here
+    - name: Program
       link: /page-3/
-    - name: Contact us
+    - name: Speakers
       link: /page-4/
-- name: Program
+    - name: Register here
+      link: /page-5/
+- name: Meet the team
   link: /products/
-- name: Speakers
+- name: Contact
   link: /blog/

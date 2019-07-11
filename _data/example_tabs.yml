@@ -8,9 +8,12 @@ items:
   - name: Location and Venue
     link: /page-2/
     icon: fa-angle-double-right
-  - name: Register here
+  - name: Program
     link: /page-3/
     icon: fa-ellipsis-v
-  - name: Contact us
+  - name: Speakers
     link: /page-4/
+    icon: fa-bars
+  - name: Register here
+    link: /page-5/
     icon: fa-bars
