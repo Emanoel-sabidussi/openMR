@@ -1,6 +1,4 @@
 ---
-title: Bulma Clean Theme
-subtitle: This is the demo site for Bulma Clean Theme
 layout: page
 hero_image: assets/ext_images/Home_logo.png
 ---

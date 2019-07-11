@@ -1,17 +1,15 @@
-- name: Pages
+- name: OpenMR Seminar 2020
   link: #
   dropdown:
-    - name: Page With Sidebar
+    - name: The OpenMR Seminar
       link: /page-1/
-    - name: Page No Sidebar
+    - name: Location and Venue
       link: /page-2/
-    - name: Page With Menubar
+    - name: Register here
       link: /page-3/
-    - name: Page With Tabs
+    - name: Contact us
       link: /page-4/
-    - name: Page Without Footer
-      link: /page-5/
-- name: Products
+- name: Program
   link: /products/
-- name: Blog
+- name: Speakers
   link: /blog/

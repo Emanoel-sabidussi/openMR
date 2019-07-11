@@ -5,7 +5,7 @@ description: This is a product description
 product_code: ABC124
 layout: product
 image: https://via.placeholder.com/640x480
-price: £1.99 + VAT
+date: 20/01/2020
 features:
     - label: Great addition to any home
       icon: fa-location-arrow

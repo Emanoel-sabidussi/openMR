@@ -1,6 +1,6 @@
 ---
-title: Products
-subtitle: Check out our range of products
+title: Program
+subtitle: Check out what's gonna happen in the 3 days of event!
 layout: product-category
 show_sidebar: false
 sort: price
