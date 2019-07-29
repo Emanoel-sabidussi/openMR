@@ -12,8 +12,8 @@
     - name: OpenMRB 2019
       link: /page-5/
 - name: Open Resources
-  link: /products/
-- name: About us
   link: /blog/
+- name: About us
+  link: /products/
 - name: Contact
   link: /page-6/

@@ -2,18 +2,18 @@ alignment: is-left
 style: is-boxed
 size: is-large
 items:
-  - name: The OpenMR Seminar
+  - name: Location and Venue
     link: /page-1/
     icon: fa-smile-wink
-  - name: Location and Venue
+  - name: Program
     link: /page-2/
     icon: fa-angle-double-right
-  - name: Program
+  - name: Registration
     link: /page-3/
     icon: fa-ellipsis-v
-  - name: Speakers
+  - name: Sponsors
     link: /page-4/
     icon: fa-bars
-  - name: Register here
+  - name: OpenMRB 2019
     link: /page-5/
     icon: fa-bars
