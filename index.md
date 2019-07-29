@@ -19,7 +19,7 @@ Interested on the organization? Meet the [Team](./page-about-us.md).
 
 In 2019, the first edition of the OpenMR Benelux was a blast! You can check the last year's program, speakers and more at [OpenMR Benelux 2019](./page-openmrb-2019.md).
 
-![previous_openmr_2019|700x600](assets/ext_images/home_image_event_1.png){: .center-image }
+![previous_openmr_2019](assets/ext_images/home_image_event_1.png){: .center-image }
 
 
 ![alt text](assets/ext_images/post_separator.png)

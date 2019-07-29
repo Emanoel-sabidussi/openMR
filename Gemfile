@@ -4,10 +4,10 @@ source "https://rubygems.org"
 gemspec
 
 group :jekyll_plugins do
+    gem "bulma-clean-theme"
     gem "jekyll-feed", "~> 0.6"
     gem "jekyll-sitemap"
     gem "jekyll-paginate"
     gem "jekyll-seo-tag"
-    gem "bulma-clean-theme"
 end
 
