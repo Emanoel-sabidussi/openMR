@@ -1,19 +1,19 @@
-- name: OpenMR Seminar 2020
+- name: OpenMRB 2020
   link: #
   dropdown:
-    - name: The OpenMR Seminar
-      link: /page-1/
     - name: Location and Venue
-      link: /page-2/
+      link: /page-1/
     - name: Program
+      link: /page-2/
+    - name: Registration
       link: /page-3/
-    - name: Speakers
+    - name: Sponsors
       link: /page-4/
-    - name: Register here
+    - name: OpenMRB 2019
       link: /page-5/
-- name: Meet the team
+- name: Open Resources
   link: /products/
-- name: Open Science news
+- name: About us
   link: /blog/
 - name: Contact
   link: /page-6/
