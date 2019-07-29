@@ -1,6 +1,7 @@
 ---
-title: The OpenMR Seminar
-subtitle: Meeting open-minded people thinking about a better science
+title: OpenMR Benelux 2020
+subtitle: Meeting open-minded people thinking about a more inclusive science
+subtitle: Program and Venue
 layout: page
 show_sidebar: true
 #tabs: example_tabs
