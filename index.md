@@ -12,7 +12,7 @@ We aim to create a community-driven open forum for people working in MRI researc
 Interested on the organization? Meet the [Team](./page-about-us.md)
 
 In 2019, the first edition of the OpenMR Benelux was a blast! You can check the last year's program, speakers and more at [OpenMR Benelux 2019](./page-openmrb-2019.md).
-![alt text](assets/ext_images/home_image_event_1.png = 250x)
+![previous_openmr_2019|500x](assets/ext_images/home_image_event_1.png)
 
 
 ![alt text](assets/ext_images/post_separator.png)
