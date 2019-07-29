@@ -2,18 +2,18 @@
   link: #
   dropdown:
     - name: Location and Venue
-      link: /page-1/
+      link: /page-location-venue/
     - name: Program
-      link: /page-2/
+      link: /page-program-speakers/
     - name: Registration
-      link: /page-3/
+      link: /page-registration/
     - name: Sponsors
-      link: /page-4/
+      link: /page-sponsors/
     - name: OpenMRB 2019
-      link: /page-5/
+      link: /page-openmrb-2019/
 - name: Open Resources
   link: /blog/
 - name: About us
-  link: /products/
+  link: /page-about-us/
 - name: Contact
-  link: /page-6/
+  link: /page-contact/
