@@ -2,18 +2,18 @@
 title: ""
 subtitle: ""
 layout: page
+show_sidebar: false
 hero_image: assets/ext_images/Home_logo.png
 ---
 
 ## Why OpenMR Benelux?
 
-So how do we as students, early career researchers, senior faculty and professionals navigate the above mentioned landscape that is so fraught with uncertainties? How do we adapt our research pipelines to include open science practices? Should we even be making these changes if we are not incentivised by our current reward structures to do so? If we choose to do so, how do we do it? Which tools or practices should we use specifically in MRI research, and where can we find more information and the necessary support to implement them? If we can’t find any help or existing solutions, can we build our own solutions? Who else is struggling with the same challenges and how can we combine efforts to create more generalisable solutions?
+We aim to create a community-driven open forum for people working in MRI research to learn about and discuss open science practices, with the focus of working together on implementable solutions, whether in the form of a software toolbox, a process description, a community project, or a knowledge-sharing initiative. Open discussion is central to our event, therefore, an open mind attitude and readiness to participate is essential.
+Interested on the organization? Meet the [Team](./page-about-us.md)
 
-These questions were the raisons d’être of OpenMR Benelux: we wanted to create a community-driven open forum for people working in MRI research to learn about and discuss open science practices, with the focus of working together on implementable solutions, whether in the form of a software toolbox, a process description, a community project, or a knowledge-sharing initiative. Open discussion is central to our event, and we specifically asked attendees to come with an open mind and ready to participate. This is also reflected in the amount of time our event’s schedule allowed for discussion and asking questions compared to the actual talks.
+In 2019, the first edition of the OpenMR Benelux was a blast! You can check the last year's program, speakers and more at [OpenMR Benelux 2019](./page-openmrb-2019.md).
+![alt text](assets/ext_images/home_image_event_1.png)
 
-Finally, while it is organised as a pre-event to the ISMRM-Benelux annual meeting, and thus drew attendees from the same wide pool of MRI-researchers (i.e. from universities/companies in Belgium, the Netherlands, and Luxembourg), our goal is to be as inclusive as possible. Anyone is welcome to attend, learn and participate, irrespective of their geographical location (or any other discerning factor for that matter).
-
-Interested? Meet the [Team](products/)
 
 ![alt text](assets/ext_images/post_separator.png)
 
